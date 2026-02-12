@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DemetrioGurgel - PCEIoT.PrjPcb]
+   Generated File[DemetrioGurgel - PCEIoT.TXT]
+   Generated File[DemetrioGurgel - PCEIoT.LDP]
+   Generated File[DemetrioGurgel - PCEIoT.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:21:18 On 12/02/2026

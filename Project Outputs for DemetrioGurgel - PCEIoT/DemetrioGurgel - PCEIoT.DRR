@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DemetrioGurgel - PCEIoT.PcbDoc   12/02/2026  16:21:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : DemetrioGurgel - PCEIoT.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             728       PTH        2170.60mm (85.46inch)
+T2      0.55mm (22mil)                                            Round             2         PTH        1.40mm (0.06inch)
+T3      0.889mm (35mil)                                           Round             32        PTH        153.36mm (6.04inch)
+T4      1.02mm (40mil)                                            Round             3         PTH        5.08mm (0.20inch)
+T5      1.1mm (43mil)                                             Round             44        PTH        193.13mm (7.60inch)
+T6      1.3mm (51mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T7      2.5mm (98mil)                                             Round             4         PTH        70.80mm (2.79inch)
+T8      3.3mm (130mil)                                            Round             4         PTH        362.04mm (14.25inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              819
+
+Total Processing Time (hh:mm:ss) : 00:00:00
